@@ -14,3 +14,14 @@ header {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+ .hero-sec {
+    background-color: #1F2937;
+    color: #E5E7EB;
+ }
+
+ #hero-main {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+ }
