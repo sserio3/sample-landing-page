@@ -8,3 +8,9 @@ header {
     background-color: #1F2937;
     color: #F9FAF8;
 }
+
+.header-link {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
