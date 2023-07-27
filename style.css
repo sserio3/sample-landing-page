@@ -45,3 +45,8 @@ header {
  #hero-quote {
     font-size: 36px;
  }
+
+ .call-to-action-sec {
+    background-color: #3882F6;
+    color: #F9FAF8;
+ }
