@@ -35,3 +35,13 @@ header {
     font-weight: bolder;
     color: #1F2937;
  }
+
+ .quote-sec {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 20px;
+ }
+
+ #hero-quote {
+    font-size: 36px;
+ }
