@@ -36,6 +36,18 @@ p {
     margin: 0;
 }
 
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 7px;
+    padding: 7px 25px;
+    margin: 10px 0;
+}
+
+.hero-sec button {
+    border: none;
+}
+
 .header-links {
     display: flex;
     align-items: center;
@@ -95,6 +107,11 @@ p {
     color: #F9FAF8;
     padding: 40px 75px;
     margin: 10%;
+    border-radius: 10px;
+ }
+
+ .call-to-action-sec button {
+    border: 2px solid #F9FAF8;
  }
 
  footer {
