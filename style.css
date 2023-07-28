@@ -96,10 +96,12 @@ button {
     background-color: #E5E7EB;
     color: #1F2937;
     padding: 80px 20%;
+    text-align: right;
  }
 
  #hero-quote {
     font-size: 36px;
+    text-align: left;
  }
 
  .call-to-action-sec {
