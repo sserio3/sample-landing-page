@@ -23,7 +23,7 @@ header {
     align-items: center;
     background-color: #1F2937;
     color: #F9FAF8;
-    padding: 20px 10%;
+    padding: 20px 12%;
 }
 
 h2, h4 {
@@ -50,13 +50,18 @@ button {
 
 .header-links {
     display: flex;
+    justify-content: right;
     align-items: center;
+    max-width: 40%;
+    gap: 15px;
+    flex: 1;
 }
 
 .header-link {
     text-decoration: none;
     font-size: 18px;
     color: #E5E7EB;
+    text-align: center;
 }
 
  .hero-sec {
