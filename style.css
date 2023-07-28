@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    font: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     padding: 0;
     margin: 0;
@@ -51,7 +51,6 @@ button {
 .header-links {
     display: flex;
     align-items: center;
-    max-width: 50%;
 }
 
 .header-link {
@@ -64,12 +63,27 @@ button {
     background-color: #1F2937;
     color: #E5E7EB;
     padding: 40px 10%;
+    display: flex;
+    align-items: center;
+ }
+
+ .hero-text {
+   margin: 0 30px 0 0;
+   width: 50%;
  }
 
  #hero-main {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bolder;
+    padding: 0;
+    margin: 0;
+ }
+
+ .hero-sec img {
+    height: 240px;
+    width: 50%;
+    background-color: gray;
  }
  
  .information-sec {
