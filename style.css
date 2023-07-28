@@ -23,7 +23,7 @@ header {
     align-items: center;
     background-color: #1F2937;
     color: #F9FAF8;
-    padding: 20px 12%;
+    padding: 20px 15%;
 }
 
 h2, h4 {
@@ -42,10 +42,6 @@ button {
     border-radius: 7px;
     padding: 7px 25px;
     margin: 10px 0;
-}
-
-.hero-sec button {
-    border: none;
 }
 
 .header-links {
@@ -67,7 +63,7 @@ button {
  .hero-sec {
     background-color: #1F2937;
     color: #E5E7EB;
-    padding: 40px 10%;
+    padding: 90px 15%;
     display: flex;
     align-items: center;
  }
@@ -85,15 +81,19 @@ button {
     margin: 0;
  }
 
+ .hero-sec button {
+   border: none;
+}
+
  .hero-sec img {
-    height: 240px;
+    height: 220px;
     width: 50%;
     background-color: gray;
  }
  
  .information-sec {
     color: gray;
-    margin: 40px 15%;
+    margin: 40px 17%;
     text-align: center;
  }
 
@@ -114,7 +114,7 @@ button {
  .quote-sec {
     background-color: #E5E7EB;
     color: #1F2937;
-    padding: 80px 20%;
+    padding: 100px 20%;
     text-align: right;
  }
 
@@ -128,7 +128,7 @@ button {
     background-color: #3882F6;
     color: #F9FAF8;
     padding: 40px 75px;
-    margin: 10%;
+    margin: 100px 15%;
     border-radius: 10px;
  }
 
